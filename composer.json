@@ -1,5 +1,5 @@
 {
-  "name": "saurabhd\silverstripe\autolink",
+  "name": "saurabhd\\silverstripe\\autolink",
   "description": "Replace content with URL",
   "homepage": "https://github.com/saurabhd/silverstripe-autolink",
   "keywords": ["silverstripe", "autolink", "replace string to URL"],
