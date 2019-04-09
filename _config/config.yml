@@ -1,0 +1,22 @@
+---
+Name: autolink
+---
+SilverStripe\Autolink:
+  extensions:
+    - SilverStripe\Autolink\Autolink
+SilverStripe\Autolink_Validator:
+  extensions:
+    - SilverStripe\Autolink\Autolink_Validator
+SilverStripe\AutolinkAdmin:
+  extensions:
+    - SilverStripe\Autolink\AutolinkAdmin
+SilverStripe\AutolinkSearch:
+  extensions:
+    - SilverStripe\Autolink\AutolinkSearch
+
+
+
+
+    
+
+

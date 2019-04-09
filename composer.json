@@ -1,0 +1,32 @@
+{
+  "name": "silverstripe/silverstripe-plugin",
+  "description": "Replace content with URL",
+  "homepage": "https://github.com/saurabhd/silverstripe-plugin",
+  "keywords": ["silverstripe", "autolink", "replace string to URL"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {"name": "Saurabh Dhariwal","email": "your@email.com"}
+  ],
+  "support": {
+    "issues": "https://github.com/saurabhd/silverstripe-plugin/issues"
+  },
+  "require": {
+    "silverstripe/cms": "^4",
+    "silverstripe/framework": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+        "silverstripe\\autolink\\": "src/"
+    }
+  },
+  "extra": {
+    "installer-name": "autolink",
+    "expose": [
+        "client"
+    ],
+    "screenshots": [
+      "relative/path/screenshot1.png",
+      "http://myhost.com/screenshot2.png"
+    ]
+  }
+}
