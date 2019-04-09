@@ -1,11 +1,11 @@
 {
-  "name": "silverstripe/silverstripe-plugin",
+  "name": "saurabhd/silverstripe-plugin",
   "description": "Replace content with URL",
   "homepage": "https://github.com/saurabhd/silverstripe-plugin",
   "keywords": ["silverstripe", "autolink", "replace string to URL"],
   "license": "BSD-3-Clause",
   "authors": [
-    {"name": "Saurabh Dhariwal","email": "your@email.com"}
+    {"name": "Saurabh Dhariwal","email": "saurabhdhariwal@gmail.com"}
   ],
   "support": {
     "issues": "https://github.com/saurabhd/silverstripe-plugin/issues"
