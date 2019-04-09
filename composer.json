@@ -1,5 +1,5 @@
 {
-  "name": "saurabhd/silverstripe-plugin",
+  "name": "saurabhd/silverstripeplugin",
   "description": "Replace content with URL",
   "homepage": "https://github.com/saurabhd/silverstripe-plugin",
   "keywords": ["silverstripe", "autolink", "replace string to URL"],
@@ -21,9 +21,6 @@
   },
   "extra": {
     "installer-name": "autolink",
-    "expose": [
-        "client"
-    ],
     "screenshots": [
       "relative/path/screenshot1.png",
       "http://myhost.com/screenshot2.png"

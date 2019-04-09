@@ -1,6 +1,6 @@
 <?php 
 
-namespace SilverStripe\Autolink;
+namespace saurabhd\silverstripeplugin;
 
 use SilverStripe\Admin\ModelAdmin;
 

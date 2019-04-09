@@ -1,5 +1,5 @@
 <?php
-namespace SilverStripe\Autolink;
+namespace saurabhd\silverstripeplugin;
 use SilverStripe\Forms\RequiredFields;
 
 class Autolink_Validator extends RequiredFields {

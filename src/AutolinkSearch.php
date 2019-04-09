@@ -1,6 +1,6 @@
 <?php
 
-namespace SilverStripe\Autolink;
+namespace saurabhd\silverstripeplugin;
 use SilverStripe\ORM\DataExtension;
 use SilverStripe\ORM\DB;
 use SilverStripe\ORM\Queries\SQLUpdate;
