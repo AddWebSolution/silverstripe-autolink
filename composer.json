@@ -1,6 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "saurabhd\\silverstripe\\autolink",
+  "name": "saurabhd\silverstripe\autolink",
   "description": "Replace content with URL",
   "homepage": "https://github.com/saurabhd/silverstripe-autolink",
   "keywords": ["silverstripe", "autolink", "replace string to URL"],
@@ -10,18 +9,6 @@
   ],
   "support": {
     "issues": "https://github.com/saurabhd/silverstripe-autolink/issues"
-=======
-  "name": "saurabhd/silverstripeplugin",
-  "description": "Replace content with URL",
-  "homepage": "https://github.com/saurabhd/silverstripe-plugin",
-  "keywords": ["silverstripe", "autolink", "replace string to URL"],
-  "license": "BSD-3-Clause",
-  "authors": [
-    {"name": "Saurabh Dhariwal","email": "saurabhdhariwal@gmail.com"}
-  ],
-  "support": {
-    "issues": "https://github.com/saurabhd/silverstripe-plugin/issues"
->>>>>>> 8762de3948ae3b86fda1686044b72296475b36b1
   },
   "require": {
     "silverstripe/cms": "^4",
