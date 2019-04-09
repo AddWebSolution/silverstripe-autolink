@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
+Name: saurabhd\silverstripe\autolink
+=======
 Name: saurabhd\silverstripeplugin
+>>>>>>> 8762de3948ae3b86fda1686044b72296475b36b1
 ---
 SilverStripe\Autolink:
   extensions:

@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
+namespace saurabhd\silverstripe\autolink;
+=======
 namespace saurabhd\silverstripeplugin;
+>>>>>>> 8762de3948ae3b86fda1686044b72296475b36b1
 
 use SilverStripe\ORM\DataObject;
 use SilverStripe\Forms\FieldList;
