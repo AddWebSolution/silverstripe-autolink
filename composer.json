@@ -1,6 +1,7 @@
 {
   "name": "saurabhd/autolink",
   "description": "Replace content with URL",
+  "type": "silverstripe-module",
   "homepage": "https://github.com/saurabhd/silverstripe-autolink",
   "keywords": ["silverstripe", "autolink", "replace string to URL"],
   "license": "BSD-3-Clause",
