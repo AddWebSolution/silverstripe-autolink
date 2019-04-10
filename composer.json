@@ -3,7 +3,7 @@
   "description": "Replace content with URL",
   "type": "silverstripe-module",
   "homepage": "https://github.com/saurabhd/silverstripe-autolink",
-  "keywords": ["silverstripe", "autolink", "replace string to URL"],
+  "keywords": ["silverstripe", "autolink", "replace string to URL","silverstripe","cms","silverstripe-cms","module","content","framework","pages","content blocks","page","sitetree ","extension","automated","automated links","automation","cms field","content modules","crm","hyperlink","hyperlinks","keyword","latest","postfix","quick add","quick edit","quick links","s3-integration","searchable","select page","silverstripe cms","silverstripe utilities","source code","spell","ss3","ss4","starter","string","target","unique","useful modules","utility","web","web-developer","widgetextensions"],
   "license": "BSD-3-Clause",
   "authors": [
     {"name": "Saurabh Dhariwal","email": "saurabhdhariwal737@gmail.com"}
