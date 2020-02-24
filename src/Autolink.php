@@ -84,6 +84,7 @@ class Autolink extends DataObject
             foreach($getContent as $getContentKey => $getContentValue)
             {
                 $replacedContent = preg_replace($KeyArray,$UrlArray,$getContentValue['Content']);
+                
                 //SiteTree
                 $updateSiteTree = SQLUpdate::create('"SiteTree"')->addWhere(array('ClassName' => $value['PageType'], 'ID'=>$getContentValue['ID']));
                 $updateSiteTree->assign('"Content"', $replacedContent);

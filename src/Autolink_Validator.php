@@ -32,6 +32,5 @@ class Autolink_Validator extends RequiredFields {
                 $valid = false;
             }
         return count($this->getErrors());
-
     }
 }
